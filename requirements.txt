@@ -1,0 +1,6 @@
+Pillow==10.2.0
+g4f
+gspread
+moviepy
+undetected-chromedriver
+py3-pinterest
